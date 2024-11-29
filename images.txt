@@ -1,4 +1,5 @@
 nginx
+mysql:8.0.32
 #支持私库
 xhofe/alist:latest
 bitnami/tomcat:10.1
