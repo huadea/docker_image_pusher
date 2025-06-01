@@ -1,5 +1,6 @@
 redis:6.2.2
 qdrant/qdrant:v1.14.0
+pgvector/pgvector:pg16
 
 #支持私库
 #xhofe/alist:latest
