@@ -3,7 +3,7 @@ qdrant/qdrant:v1.14.0
 pgvector/pgvector:pg16
 
 # maxkb
-cr2.fit2cloud.com/1panel/maxkb:v1.10.8-lts
+1panel/maxkb:v1.10.8-lts
 
 #支持私库
 #xhofe/alist:latest
