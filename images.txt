@@ -7,6 +7,9 @@ nacos/nacos-mcp-router:latest
 # maxkb
 1panel/maxkb:v1.10.8-lts
 
+# wechatopenai
+wechatopenai/weknora-ui:latest
+
 #支持私库
 #xhofe/alist:latest
 #bitnami/tomcat:10.1
