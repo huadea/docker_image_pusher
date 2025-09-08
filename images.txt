@@ -19,6 +19,7 @@ redis:7.0-alpine
 # others
 jaegertracing/all-in-one:latest
 paradedb/paradedb:latest
+ollama/ollama:latest
 
 #支持私库
 #xhofe/alist:latest
