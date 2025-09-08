@@ -10,6 +10,16 @@ nacos/nacos-mcp-router:latest
 # wechatopenai
 wechatopenai/weknora-ui:latest
 
+# minio
+minio/minio:latest
+
+# redis
+redis:7.0-alpine
+
+# others
+jaegertracing/all-in-one:latest
+paradedb/paradedb:latest
+
 #支持私库
 #xhofe/alist:latest
 #bitnami/tomcat:10.1
