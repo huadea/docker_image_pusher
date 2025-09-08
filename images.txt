@@ -9,6 +9,8 @@ nacos/nacos-mcp-router:latest
 
 # wechatopenai
 wechatopenai/weknora-ui:latest
+wechatopenai/weknora-app:latest
+wechatopenai/weknora-docreader:latest
 
 # minio
 minio/minio:latest
