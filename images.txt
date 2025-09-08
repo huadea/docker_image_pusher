@@ -20,6 +20,12 @@ redis:7.0-alpine
 jaegertracing/all-in-one:latest
 paradedb/paradedb:latest
 ollama/ollama:latest
+alpine:3.17
+golang:1.24-alpine
+python:3.10.18-bookworm
+nginx:stable-alpine
+node:24-alpine
+
 
 #支持私库
 #xhofe/alist:latest
