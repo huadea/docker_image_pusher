@@ -3,6 +3,7 @@ qdrant/qdrant:v1.14.0
 pgvector/pgvector:pg16
 nacos/nacos-server:v3.0.1
 nacos/nacos-mcp-router:latest
+openjdk:17
 
 # maxkb
 1panel/maxkb:v1.10.8-lts
