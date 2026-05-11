@@ -29,6 +29,9 @@ python:3.10.18-bookworm
 nginx:stable-alpine
 node:24-alpine
 
+# database
+postgres:16.13
+
 
 #支持私库
 #xhofe/alist:latest
