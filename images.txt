@@ -1,17 +1,6 @@
 redis:6.2.2
 qdrant/qdrant:v1.14.0
 pgvector/pgvector:pg16
-nacos/nacos-server:v3.0.1
-nacos/nacos-mcp-router:latest
-openjdk:17-ea-28-jdk-slim
-
-# maxkb
-1panel/maxkb:v1.10.8-lts
-
-# wechatopenai
-wechatopenai/weknora-ui:latest
-wechatopenai/weknora-app:latest
-wechatopenai/weknora-docreader:latest
 
 # minio
 minio/minio:latest
@@ -20,18 +9,7 @@ minio/minio:latest
 redis:7.0-alpine
 
 # others
-jaegertracing/all-in-one:latest
-paradedb/paradedb:latest
-ollama/ollama:latest
-alpine:3.17
-golang:1.24-alpine
-python:3.10.18-bookworm
-nginx:stable-alpine
-node:24-alpine
-
-# database
-postgres:16.13
-
+openjdk:8u121-jdk
 
 #支持私库
 #xhofe/alist:latest
